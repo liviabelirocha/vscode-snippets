@@ -1,0 +1,8 @@
+{
+  "console.log": {
+    "prefix": "clg",
+    "scope": "javascript,typescript",
+    "body": ["console.log($1)"],
+    "description": "Create console.log"
+  }
+}
