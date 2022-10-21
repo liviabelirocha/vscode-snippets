@@ -1,7 +1,7 @@
 {
   "console.log": {
     "prefix": "clg",
-    "scope": "javascript,typescript",
+    "scope": "javascript,typescript,javascriptreact,typescriptreact",
     "body": ["console.log($1)"],
     "description": "Create console.log"
   }
