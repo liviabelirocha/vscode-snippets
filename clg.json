@@ -4,5 +4,17 @@
     "scope": "javascript,typescript,javascriptreact,typescriptreact",
     "body": ["console.log($1)"],
     "description": "Create console.log"
+  },
+  "logger.info": {
+    "prefix": "lgi",
+    "scope": "javascript,typescript",
+    "body": ["logger.info($1)"],
+    "description": "Create logger.info"
+  },
+  "logger.error": {
+    "prefix": "lge",
+    "scope": "javascript,typescript",
+    "body": ["logger.error($1)"],
+    "description": "Create logger.error"
   }
 }
